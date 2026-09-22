@@ -1,8 +1,8 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "release_date": "2026-09-21",
     "min_version": "1.0.0",
-    "installer_url": "https://github.com/Daryelgaming08/JMR-ERP/releases/tag/v1.0.0/JMR_ERP_Setup.exe",
+    "installer_url": "https://github.com/Daryelgaming08/JMR-ERP/releases/tag/v1.0.1/JMR_ERP_Setup.exe",
     "sha256": "d5bb4535a0a01b9277987134d7cb3aab2444c82e1d9a7704d50ebd4ad18c2d1e",
     "changelog": "- Version inicial",
     "mandatory": false
