@@ -1,0 +1,9 @@
+{
+    "version": "1.0.1",
+    "release_date": "2026-10-15",
+    "min_version": "1.0.0",
+    "installer_url": "https://github.com/tu-usuario/jmr-erp/releases/download/v1.0.1/JMR_ERP_Setup.exe",
+    "sha256": "abc123def456...",
+    "changelog": "- Corregido bug en facturacion\n- Agregada exportacion a Excel en reportes\n- Mejoras de rendimiento",
+    "mandatory": false
+}
